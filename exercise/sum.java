@@ -9,7 +9,7 @@ public class sum {
         int x = 6;
         float y = 32.34f;
         float z = x+y;
-        System.out.println("sum="+z);
+        System.out.println("total sum="+z);
 
 
     }
